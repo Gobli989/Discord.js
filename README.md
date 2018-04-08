@@ -22,4 +22,4 @@ Ezekben a tutorialokban megcsináltuk ezeket:
 ### Első epizód: Első parancsunk
 Az első epizódban megadtuk az alap paramétereket a botunknak, meghatároztuk a privát és szerver üzenetekhet a parancsokat.
 
-[![Első epizód](http://img.youtube.com/vi/Rl-T274Jecw/maxresdefault.jpg)](http://www.youtu.e/Rl-T274Jecw)
+[![Első epizód](http://img.youtube.com/vi/Rl-T274Jecw/hqdefault.jpg)](http://www.youtu.be/Rl-T274Jecw)

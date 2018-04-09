@@ -1,0 +1,4 @@
+{
+  "token": "TOKENED IDE!",
+  "prefix": "!"
+}
